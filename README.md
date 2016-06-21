@@ -1,6 +1,9 @@
 # Buzzfeed
 
-This repository contains all the materials contributed by [Buzzfeed](https://www.buzzfeed.com/audio) for [Open Audio Weekend](https://github.com/nypl-openaudio/start-here). It contains audio files and computer-generated transcripts. You can download this entire repository as a zip [here](https://github.com/nypl-openaudio/data-buzzfeed/archive/master.zip). A [.csv](https://github.com/nypl-openaudio/data-buzzfeed/blob/master/manifest.csv) file and [python script](https://github.com/nypl-openaudio/data-buzzfeed/blob/master/get_materials.py) has also been provided to access this files programmatically. [Click here](https://github.com/nypl-openaudio/start-here/materials) to view more collections.
+This repository contains all the materials contributed by [Buzzfeed](https://www.buzzfeed.com/audio) for [Open Audio Weekend](https://github.com/nypl-openaudio/start-here). It contains audio files and computer-generated transcripts. You can download this entire repository as a zip [here](https://github.com/nypl-openaudio/data-buzzfeed/archive/master.zip) or download individual files below. A [.csv](https://github.com/nypl-openaudio/data-buzzfeed/blob/master/manifest.csv) file and [python script](https://github.com/nypl-openaudio/data-buzzfeed/blob/master/get_materials.py) has also been provided to access this files programmatically. [Click here](https://github.com/nypl-openaudio/start-here/materials) to view more collections and example scripts. [Click here](https://github.com/nypl-openaudio/start-here#resources) to view additional resources.
+
+## Usage
+Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
 ## The Collection Description
 [Another Round](https://www.buzzfeed.com/anotherround) by [Buzzfeed](https://www.buzzfeed.com/) - Heben Nigatu and Tracy Clayton cover everything from race, gender and pop culture to squirrels, mangoes, and bad jokes, all in one boozy show.
