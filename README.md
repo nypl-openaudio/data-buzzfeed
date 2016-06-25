@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [Buzzfeed](https://www
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [Another Round](https://www.buzzfeed.com/anotherround) by [Buzzfeed](https://www.buzzfeed.com/) - Heben Nigatu and Tracy Clayton cover everything from race, gender and pop culture to squirrels, mangoes, and bad jokes, all in one boozy show.
 
